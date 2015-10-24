@@ -1,9 +1,10 @@
-##算法
-最长递增子序列
-##界面
+##Algorithm
+longest increaing subsequence
+## Time complexity
+O(nlogn)
+##Interface
 JAVA swing
-## 功能
-1. 选择输入串长度
-2. 随机生成输入串
-3. 计算子序列
-4. 将对应字符在输入串中标红
+##Function
+1. change the length of the input string
+2. generate input string randomly
+3. mark the longest increaing subsequence in the input string
